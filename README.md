@@ -79,7 +79,6 @@ The application follows a **Server Actions** pattern for data mutations, ensurin
 * `lib/`: Core configuration for Prisma, ArcJet, and third-party clients.
 * `components/`: Reusable UI components built with Tailwind and Shadcn.
 
-
 ## 📄 License
 
 This project is licensed under the **MIT License**.
