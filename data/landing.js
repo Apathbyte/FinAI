@@ -88,24 +88,24 @@ export const howItWorksData = [
 // Testimonials Data
 export const testimonialsData = [
   {
-    name: "Sarah Johnson",
-    role: "Small Business Owner",
-    image: "https://randomuser.me/api/portraits/women/75.jpg",
+    name: "Darth Vader",
+    role: "The Sith Lord",
+    image: "/vader.webp", // public/vader.webp
     quote:
-      "Welth has transformed how I manage my business finances. The AI insights have helped me identify cost-saving opportunities I never knew existed.",
+      "The receipt scanning feature saves me hours each month. I can finally stop tracking TIE Fighter maintenance manually and focus on hunting Obi-Wan. I find your lack of automated budgeting... disturbing.",
   },
   {
-    name: "Michael Chen",
-    role: "Freelancer",
-    image: "https://randomuser.me/api/portraits/men/75.jpg",
+    name: "Monkey D. Luffy",
+    role: "Captain of the Straw Hat Pirates",
+    image: "/monkeydluffy.webp", // public/monkeydluffy.webp
     quote:
-      "The receipt scanning feature saves me hours each month. Now I can focus on my work instead of manual data entry and expense tracking.",
+      "I used to spend all our berries on meat and leave Nami angry! But with FinAI, I can track my food expenses and still have enough for the Sunny's repairs. It’s the King of all Finance Apps!",
   },
   {
-    name: "Emily Rodriguez",
-    role: "Financial Advisor",
-    image: "https://randomuser.me/api/portraits/women/74.jpg",
+    name: "Tony Stark",
+    role: "Genius, Billionaire, Philanthropist",
+    image: "/tonystark.webp", // public/tonystark.webp
     quote:
-      "I recommend Welth to all my clients. The multi-currency support and detailed analytics make it perfect for international investors.",
+      "I usually let JARVIS handle the billions, but for my personal 'fun' projects, FinAI's ArcJet protection is the only thing that keeps hackers out of my R&D budget. Clean UI, high tech—I approve.",
   },
 ];
